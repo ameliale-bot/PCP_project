@@ -9,3 +9,4 @@ We looked at two events, one with data from OMTI ASI at Eureka, Canada, and one 
 Secondly, this pipeline downloads data using PySPEDAS from OMTI and CDAWeb, so processing data using this code will require PySPEDAS and the supporting Python modules. This code also requires matplotlib, pandas, datetime, scipy, and numpy to be installed. 
 Finally, the optical_calibrate function requires calibration files to be downloaded, which can be done here: https://stdb2.isee.nagoya-u.ac.jp/omti/stations.html#calibration 
 This pipeline also requires radar SECs data to be downloaded, and aacgm coordinates to be downloaded. The conversion from pixel to magnetic latitude is not done in this pipeline. 
+DOI: 10.5281/zenodo.23481949
