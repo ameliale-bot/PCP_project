@@ -1,10 +1,10 @@
-cff-version: 1.2.0
+cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Lee"
   given-names: "Amelia"
-  orcid: "https://orcid.org" # Optional
+  orcid: "https://orcid.org/0009-0007-7909-1097" # Optional
 title: "PCP_dataPipeline"
 version: "1.0.0"
 date-released: 2026-10-12
-url: "https://github.com"
+url: "https://github.com/ameliale-bot/PCP_project"
